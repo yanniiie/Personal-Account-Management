@@ -9,8 +9,7 @@ This project implements a personal bank account management system in Java, allow
 - [Installation](#installation)
 - [Usage](#usage)
 - [Class Diagram](#class-diagram)
-- [Testing](#testing)
-- [License](#license)
+
 
 ## Project Structure
 
