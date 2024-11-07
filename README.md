@@ -32,3 +32,8 @@ The project is organized into the following files:
 ![UML Class Diagram](![Personal Account Management drawio](https://github.com/user-attachments/assets/13fde9e3-3693-48e8-a65b-0b4708060829)
 )
 
+
+##ScreenShot
+
+![Снимок экрана (27)](https://github.com/user-attachments/assets/2accde23-d7d8-47a4-ac9a-195211073ab3)
+
